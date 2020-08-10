@@ -1,0 +1,50 @@
+[data-theme="dark"] {
+    background-color: #111 !important;
+    color: #eee;
+}
+
+[data-theme="dark"] .bg-light {
+    background-color: #333 !important;
+}
+
+[data-theme="dark"] .bg-white {
+    background-color: #000 !important;
+}
+
+[data-theme="dark"] .bg-black {
+    background-color: #eee !important;
+}
+
+[data-theme="dark"] .card {
+    background-color: #4a4848 !important;
+    color: #eee;
+}
+
+[data-theme="dark"] .navistyle {
+    background-color: #4a4848 !important;
+    color: #eee;
+}
+
+[data-theme="dark"] .dropdown-menu {
+    background-color: #4a4848 !important;
+    color: #eee;
+}
+[data-theme="dark"] .dropdown-item:hover, .dropdown-item:focus {
+    background-color: #626262 !important;
+    color: #eee;
+}
+
+[data-theme="dark"] .fa-sun{
+    color: orange;
+}
+
+[data-theme="dark"] .reaction{
+    color: black;
+}
+
+[data-theme="dark"] .dropdown-item{
+    color: white;
+}
+[data-theme="dark"] .text-muted{
+    color: white !important;
+}
