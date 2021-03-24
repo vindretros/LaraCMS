@@ -11,7 +11,7 @@ This block of instructions assumes you are familiar with PHP dev environments.
 
 - Clone the repository
 ```bash
-git clone https://vindretros@bitbucket.org/vindretros/braincms-2.0.git
+git clone https://github.com/vindretros/LaraCMS.git
 ```
 - Install dependencies
 ```
